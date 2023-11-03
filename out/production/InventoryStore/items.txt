@@ -1,0 +1,4 @@
+Item category: test, Breakable: true, Perishable: true, Sellable: false, ID: 1, Quantity: 0, Name: test, Price: 234.0, Type: null
+Item category: asd, Breakable: true, Perishable: true, Sellable: true, ID: 3, Quantity: 1, Name: kakao, Price: 33.0, Type: null
+Item category: fe, Breakable: false, Perishable: false, Sellable: false, ID: 12, Quantity: 2, Name: dd, Price: 22.0, Type: null
+Item category: asd, Breakable: true, Perishable: true, Sellable: true, ID: 111, Quantity: 1, Name: test, Price: 123.0, Type: null
